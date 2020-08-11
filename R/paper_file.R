@@ -1,5 +1,3 @@
-
-
 #' @docType data
 #'
 #' @usage data(paper_file)
@@ -12,5 +10,4 @@
 #'
 #' @examples
 #' data(paper_file)
-
 "paper_file"
