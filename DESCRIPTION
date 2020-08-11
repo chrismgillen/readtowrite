@@ -6,11 +6,9 @@ Authors@R:
            family = "Gillen",
            role = c("aut", "cre"),
            email = "gillenc@kenyon.edu",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
-Encoding: UTF-8
+           comment = c(ORCID = 0000-0002-4703-7682)
+Description: Shuffles and otherwise deconstructs sentences and paragraphs for the creation of active reading exercise.  
+License: use_mit_license()
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
