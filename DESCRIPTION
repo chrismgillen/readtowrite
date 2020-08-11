@@ -11,5 +11,5 @@ Description: Shuffles and otherwise deconstructs sentences and paragraphs for th
 License: use_mit_license()
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Import: tokenizers (>=0.2.1)
