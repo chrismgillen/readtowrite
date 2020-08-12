@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "gillenc@kenyon.edu",
            comment = "ORCID = 0000-0002-4703-7682")
-Description: Shuffles and otherwise deconstructs sentences and paragraphs for the creation of active reading exercise.  
+Description: Shuffles and otherwise deconstructs sentences and paragraphs for the creation of active reading exercise. Highly preliminary version with incomplete documentation.
 License: use_mit_license()
 LazyData: true
 Roxygen: list(markdown = TRUE)
